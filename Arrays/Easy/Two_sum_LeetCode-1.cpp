@@ -34,7 +34,7 @@ int main() {
     vector<int> answer = s.twoSum(v,target);
 
     for (int i = 0; i < answer.size();i++){
-        cout << answer[i] << " " << endl;
+        cout << answer[i] << endl;
     }
     
     return 0;
