@@ -97,6 +97,7 @@ int main() {
 | Topic | Easy | Medium | Hard | Total Completed | Status |
 |:---|:---:|:---:|:---:|:---:|:---|
 | Arrays | 3 | 0 | 1 | 0 | 🔄 Learning |
+| Math | 1 | 0 | 0 | 0 | 🔄 Learning |
 | Strings | 0 | 0 | 0 | 0 | ⏳ Not Started |
 | Binary Search | 0 | 0 | 0 | 0 | ⏳ Not Started |
 | Sorting | 0 | 0 | 0 | 0 | ⏳ Not Started |
