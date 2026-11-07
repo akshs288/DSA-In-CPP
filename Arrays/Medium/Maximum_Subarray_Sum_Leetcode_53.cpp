@@ -2,18 +2,22 @@
 using namespace std;
 
 int main() {
-    int arr[] = {1,351,35,13,5};
+    int arr[] = {1,2,3,4,5};
     int n = sizeof(arr)/sizeof(int);
 
     for (int i = 0; i < n; i++)
     {
-        /* code */
-        for (int j = i;j < n;j++){
-            cout << arr[j] << " ";
+        for (int j = i;j < n;j++)
+        {
+            for (int k = i;k <= j;k++)
+            {
+                cout << arr[k];
+            }
+        cout << endl;
         }
-        cout << "\n";
+    cout << endl;
     };
-    
-
     return 0;
+
+
 }
