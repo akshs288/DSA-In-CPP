@@ -98,7 +98,7 @@ int main() {
 |:---|:---:|:---:|:---:|:---:|:---|
 | Arrays | 3 | 2 | 0 | 5 | 🔄 Learning |
 | Math | 1 | 0 | 0 | 1 | 🔄 Learning |
-| Strings | 0 | 0 | 0 | 0 | ⏳ Not Started |
+| Strings | 1 | 0 | 0 | 0 | 🔄 Learning |
 | Binary Search | 0 | 0 | 0 | 0 | ⏳ Not Started |
 | Sorting | 0 | 0 | 0 | 0 | ⏳ Not Started |
 | Hashing | 0 | 0 | 0 | 0 | ⏳ Not Started |
